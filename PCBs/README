@@ -1,0 +1,19 @@
+*Copyright 2017
+* Grupo FalaBrasil
+* Universidade Federal do Pará
+*Authors: Jan 2017
+* Erick Modesto Campos    - erick.c.modesto@gmail.com // erickcampos@ufpa.br
+* Cassio Trindade Batista - cassio.batista.13@gmail.com // cassiotb@ufpa.br
+
+
+Content:
+-HT12D, HT12E and Potentiometer (libraries required)
+-Emitter infrared  signal circuit (It sends a command signal to a TV)
+-Transmitter AT switch module circuit
+-Receiver AT switch module circuit
+-Status led circuit (system status)
+
+
+All circuits were built on the KiCad Software
+
+
